@@ -1,0 +1,13 @@
+# Core Machine Learning Framework (CUDA 12.1 recommended for RTX 50-series)
+--index-url https://pytorch.org
+torch
+torchvision
+torchaudio
+
+# Upscaling Model and Image Processing
+aura-sr
+Pillow
+requests
+
+# Optimization and Utilities
+numpy
