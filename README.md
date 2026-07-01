@@ -10,9 +10,10 @@ A high-performance Python script for upscaling images to 4096x4096px using the A
 
 ## 📦 Installation
 Run the following command to install the required libraries:
+```sh
 pip install torch torchvision torchaudio --index-url https://pytorch.org
 pip install aura-sr pillow requests
-
+```
 ## 🛠️ Configuration
 
 ### 1. Fixing the "Download Glitch"
